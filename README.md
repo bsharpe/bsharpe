@@ -1,8 +1,6 @@
 # Hey, I'm Ben Sharpe 👋
 
-Software engineer since 1988. I was on the Apple Newton team. Now I build things in Elixir and ship products people actually use.
-
-Currently obsessed with: LLMs, browser games, and making the web a little more useful.
+Indie developer who ships things. I build with AI, experiment constantly, and stay obsessed with the question: what can software actually do for people?
 
 ---
 
