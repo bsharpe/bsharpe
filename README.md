@@ -78,6 +78,16 @@ Take a 2-minute vibe check and get 5 handpicked movie suggestions tailored to ho
 
 ---
 
+## 📼 Past Lives
+
+- **The Best Camera** — Pre-Instagram Instagram
+- **SmarterVille** — Online edutainment service (acquired by Hooked on Phonics)
+- **Castle Infinity** — Massively multiplayer platformer for kids
+- **Crop Circles** — A game where you defend your cows and crops against alien graffiti artists
+- **Tooth & Claw** — Persistent multiplayer browser-based game in the early days of Facebook
+
+---
+
 ## 🛠 Stack
 
 Elixir · Phoenix · TypeScript · Go · PostgreSQL · SQLite · Cloudflare Workers
