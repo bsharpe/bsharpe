@@ -1,9 +1,3 @@
-# Hey, I'm Ben Sharpe 👋
-
-Indie developer who ships things. I build with AI, experiment constantly, and stay obsessed with the question: what can software actually do for people?
-
----
-
 ## 🚀 Projects
 
 ### 🏎️ [Garage Time](https://github.com/bsharpe/garage_time)
