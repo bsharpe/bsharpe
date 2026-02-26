@@ -6,9 +6,9 @@ Indie developer who ships things. I build with AI, experiment constantly, and st
 
 ## 🚀 Projects
 
-### 🎬 [MovieViber.com](https://movieviber.com)
-*Movies for your vibe, not your watch history.*
-Take a 2-minute vibe check and get 5 handpicked movie suggestions tailored to how you feel right now. No algorithm. No endless scrolling.
+### 🏎️ [Garage Time](https://github.com/bsharpe/garage_time)
+*Project car tracking for parts, progress, and community.*
+Keep tabs on your builds — track parts, document progress, and share with fellow gearheads.
 
 ---
 
@@ -18,15 +18,15 @@ Connects messaging channels (Slack, Telegram, WhatsApp, Discord, Signal, iMessag
 
 ---
 
-### 🎮 [The Echo](https://github.com/bsharpe/the_echo)
-*Multiplayer browser-based persistent game (PBBG).*
-A long-running passion project — rewritten from Rails to Elixir/Phoenix for the performance and concurrency that a living, breathing game world demands.
-
----
-
 ### 🍞 [Codebake](https://github.com/bsharpe/codebake-cli)
 *Project management built for developers.*
 A focused task and project tracker with a CLI-first workflow. Built for the way engineers actually work.
+
+---
+
+### 📝 [Naked Blog](https://github.com/bsharpe/naked_blog)
+*Super minimal blogging system.*
+No frills, no frameworks, no fuss. Just write and publish.
 
 ---
 
@@ -42,15 +42,45 @@ Each day's puzzle is built around real news — find the words hidden in today's
 
 ---
 
+### 🤝 [Consensus Coder](https://github.com/bsharpe/consensus-coder)
+*Multi-model collaborative coding workflow.*
+Pit multiple AI models against each other to solve complex problems, then synthesize the best answer.
+
+---
+
+### 📈 [Options Tracker](https://github.com/bsharpe/options_tracker)
+*An options trading journal that helps you learn from your mistakes.*
+Track your trades, review your decisions, and get better over time.
+
+---
+
 ### ✈️ [TripToucan](https://github.com/bsharpe/tripper)
 *Travel itinerary manager.*
 Organize trips without the bloat. Built for people who plan travel the way engineers plan systems.
 
 ---
 
+### 📧 [Listava](https://github.com/bsharpe/listava)
+*A group email list manager for folks who still use BCC and CC.*
+Simple mailing lists without the overhead of a full email platform.
+
+---
+
+### 🎮 [The Echo](https://github.com/bsharpe/the_echo)
+*Multiplayer browser-based persistent game (PBBG).*
+A long-running passion project — rewritten from Rails to Elixir/Phoenix for the performance and concurrency that a living, breathing game world demands.
+
+---
+
+### 🎬 [MovieViber.com](https://movieviber.com)
+*Movies for your vibe, not your watch history.*
+Take a 2-minute vibe check and get 5 handpicked movie suggestions tailored to how you feel right now. No algorithm. No endless scrolling.
+
+---
+
 ## 🛠 Stack
 
-Elixir · Phoenix · TypeScript · Go · PostgreSQL · CockroachDB · Cloudflare Workers
+Elixir · Phoenix · TypeScript · Go · PostgreSQL · SQLite · Cloudflare Workers
 
 ---
 
