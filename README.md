@@ -30,9 +30,9 @@ Upload a text or Markdown file, choose a theme, get a properly formatted EPUB3. 
 
 ---
 
-### 🔤 Word Search Club
+### 🔤 [Word Search Club](https://wordsearch.club)
 *Daily word search puzzles, current-events style.*
-Each day's puzzle is built around real news — find the words hidden in today's headlines.
+Each day's puzzle is built around real news — find the words hidden in today's headlines. An experiment where AI manages the entire site.
 
 ---
 
