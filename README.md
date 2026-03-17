@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 🔍 [HuntAPart.com](https://huntapart.com)
+*Find the car parts you need, fast.*
+Search across salvage yards and part-outs to find exactly the part you're looking for. Built for gearheads who'd rather wrench than browse.
+
+---
+
 ### 🏎️ Garage Time
 *Project car tracking for parts, progress, and community.*
 Keep tabs on your builds — track parts, document progress, and share with fellow gearheads.
