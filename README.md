@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 🚖 [CyberFleets](https://cyberfleets.us)
+*News aggregation for the Tesla Cybercab.*
+Track every development, rumor, and reveal about Tesla's Cybercab in one place.
+
+---
+
 ### 🔍 [HuntAPart.com](https://huntapart.com)
 *Find the car parts you need, fast.*
 Search across salvage yards and part-outs to find exactly the part you're looking for. Built for gearheads who'd rather wrench than browse.
