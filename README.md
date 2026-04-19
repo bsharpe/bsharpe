@@ -2,7 +2,7 @@
 
 ### ⚡ NuTuner
 *A next-gen ECU tuning system.*
-Next-generation ECU tuning system for performance enthusiasts.
+Fine-tune your engine's ECU with a modern, user-friendly interface built for performance tuning.
 
 ---
 
