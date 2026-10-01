@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 📋 [ClipStak](https://github.com/bsharpe/ClipStak)
+*Open-source clipboard manager for macOS.*
+Keeps a history of everything you copy — text and images — so nothing gets lost.
+
+---
+
 ### ⚡ NuTuner
 *A next-gen ECU tuning system.*
 Fine-tune your engine's ECU with a modern, user-friendly interface built for performance tuning.
