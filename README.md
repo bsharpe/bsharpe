@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 🕹️ [Institute of Mayhem](https://instituteofmayhem.com)
+*Committed to classic games.*
+Preserves, restores, and extends classic computer games so they play again in any browser.
+
+---
+
 ### 📋 [ClipStak](https://github.com/bsharpe/ClipStak)
 *Open-source clipboard manager for macOS.*
 Keeps a history of everything you copy — text and images — so nothing gets lost.
