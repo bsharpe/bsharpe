@@ -42,9 +42,9 @@ Connects messaging channels (Slack, Telegram, WhatsApp, Discord, Signal, iMessag
 
 ---
 
-### 🍞 Codebake
-*Project management built for developers.*
-A focused task and project tracker with a CLI-first workflow. Built for the way engineers actually work.
+### 🍞 [Codebake](https://codebake.ai)
+*An agentic harness for task prioritization and management.*
+Prioritizes and manages tasks so AI agents and engineers always know what to work on next.
 
 ---
 
