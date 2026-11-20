@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 🏠 [Homeboard](https://github.com/bsharpe/homeboard)
+*Self-hosted family calendar and weather wall dashboard for Raspberry Pi.*
+Puts your family's calendars and live local weather on a wall display — no subscriptions, no OAuth, no API keys.
+
+---
+
 ### 🕹️ [Institute of Mayhem](https://instituteofmayhem.com)
 *Committed to classic games.*
 Preserves, restores, and extends classic computer games so they play again in any browser.
